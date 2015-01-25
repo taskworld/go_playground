@@ -1,0 +1,5 @@
+This Go program accept integer input one line at a time.
+
+After 5 seconds of the last input, it prints out the sum of all the integers.
+
+This is a simple program I wrote while waiting for my cups at Starbucks to try to mimic a harder problem of buffered the user actions on an element (modify task, add comment, change date) and wait for some time before flushing all those data for processing so that it doesn't send burst notifications to user.
